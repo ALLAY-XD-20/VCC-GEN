@@ -48,8 +48,8 @@ ALPHA DEV is a powerful Python-based card generator tool that creates random car
 3. **Clone Repository**
    
    ```bash
-   git clone https://github.com/username/alpha-dev-card-generator.git
-   cd alpha-dev-card-generator
+   git clone https://github.com/ALLAY-XD-20/VCC-GEN/
+   cd VCC-GEN
    ```
 
 ### Alternative Installation Methods
