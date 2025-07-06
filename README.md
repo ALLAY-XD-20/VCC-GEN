@@ -85,7 +85,7 @@ conda install -c conda-forge colorama
 ### Run the Tool
 
 ```bash
-python card_generator.py
+python main.py
 ```
 
 ### Menu Options
